@@ -2,4 +2,9 @@
   - Course : 멤버변수를 생성해 제약조건을 입력함.
 
 2. DAO
-  - 
+  - CourseDAO : 정보를 database에 연결
+  - CourseMapper : model 객체에 전달 받은 데이터를 저장함.
+  
+3. Service
+  - CourseService
+  
